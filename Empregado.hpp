@@ -25,4 +25,5 @@ class Empregado {
 	
 };
 
+
 #endif
